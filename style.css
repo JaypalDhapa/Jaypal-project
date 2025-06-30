@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+    font-size: 2rem;
+    color: white;
+}
+
+h1{
+    color: yellow;
+    font-size: 50px;
+    text-decoration: underline;
+    background-color: red;
+}
